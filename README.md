@@ -1,7 +1,105 @@
 # Larry Okoth Digital Marketing Portfolio
 A digital marketing and PPC portfolio by Larry Okoth.
+Also a link to [resume](#resume) further down
 
-> But first, the resume.
+
+---
+
+# Samsung Nordics: Site Migration, Redesign and SEO
+
+In early 2014 Samsung Electronics Nordics websites came in two variants: mobile ([m.samsung.com](http://m.samsung.com/)) and desktop ([samsung.com](http://samsung.com/)). During that year we worked hard to migrate the site to a new, uniform, responsive website. The snapshot with light background is from January 2014, the snapshot with dark background is from February 2015. Both snapshots were taken with [Internet Archive: Wayback Machine].
+
+## [Samsung.se](http://samsung.se/) January 2014
+
+(Click to expand)
+
+![samsung_pre.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/e91c267e-8736-3a5a-2983-db1f58cd9749)
+
+## [Samsung.se](http://samsung.se/) February 2015
+
+(Click to expand)
+
+![samsung_post.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/7873872e-6021-2dee-2d19-0bf731c03b7f)
+
+
+
+---
+
+# S&N Oy: Website Migration and Redesign
+
+Planned and executed the migration of S&N OY website and content from a non-responsive to a responsive site.
+
+## Before
+
+[snoy.fi](http://snoy.fi/) on January 26, 2019. (Click to expand)
+
+![snoy_2019_01_26.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/d43c92be-58c3-c1c7-1ef5-9dcdd41d017e)
+
+## After
+
+[snoy.fi](http://snoy.fi/) after project completion. (Click to expand)
+
+![Snoy.fi after -Screenshot-2020-07-22-at-14.32.28.jpg](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/44756c82-a540-36d8-196d-455b4de3d1d1)
+
+
+---
+Planned and executed the migration of S&N OY website and content from a non-responsive to a responsive site.
+
+## Before
+
+
+[snoy.fi](http://snoy.fi/) on January 26, 2019. (Click to expand)
+
+![image](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/d43c92be-58c3-c1c7-1ef5-9dcdd41d017e)
+
+## After
+
+
+[snoy.fi](http://snoy.fi/) after project completion. (Click to expand)
+
+![image](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/44756c82-a540-36d8-196d-455b4de3d1d1)
+
+---
+# Winner Clothing: New Website
+
+Migrated and redesigned this [web shop](https://www.winner-clothing.com) selling clothing and apparel. The site was built on a non-responsive platform and needed a refresh.
+
+## Before
+
+This is what the site home page looked before the redesign with no differentation between user devices. (Click to expand)
+
+![Winner_Clothing_before.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/4044405f-bf80-3bcf-55eb-1adcde678249)
+
+## After
+
+This is what the home page looks like after the project was completed. The layout now adapts to screen and device size accordingly. (Click to expand)
+
+![winner_clothing_after.jpg](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/84191766-a6c5-97c7-36d9-abb092de53a9)
+
+---
+
+# Digital Marketing Dashboards
+
+Examples of dashboards for analytics, optimization and reporting purposes, highly customized as per client requests.
+
+![dashboard1.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/b7c8f98c-9eb4-414d-3a5f-9fc1e43c41a4)
+
+Google Ads dashboard with customized weekly cost and conversion tracking metrics.
+
+![dashboard2.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/6d2cc51e-3370-4491-4e70-a9511154df64)
+
+Google Ads dashboard with dropdown menu options to filter views by campaigns and dates.
+
+![dashboard5.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/6ba1e681-18aa-c5c7-e8c3-7094295fc4b9)
+
+Google Ads dashboard with combined views for clicks, impressions, conversions, costs; split by campaign, with options to select a date range.
+
+![dashboard4.png](https://res.craft.do/user/full/001f87fe-c047-59a3-e01f-bed4cfb3b74b/doc/024CF08B-C6DC-4235-9F21-8FB64FCEC9BE/913f8335-60be-e6be-10d3-4d9692996ebd)
+
+An overview dashboard customized per the client's request and needs.
+
+
+---
 
 # Resume 
 # Senior PPC Specialist & Digital Analyst
